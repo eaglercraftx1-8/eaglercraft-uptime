@@ -6,8 +6,8 @@
     "slug": "eaglercraft-x-site-links",
     "status": "up",
     "uptime": "89.17%",
-    "uptimeDay": "87.94%",
-    "uptimeWeek": "57.83%",
+    "uptimeDay": "89.13%",
+    "uptimeWeek": "58.00%",
     "uptimeMonth": "75.17%",
     "uptimeYear": "89.17%",
     "time": 199,
@@ -36,15 +36,15 @@
     "url": "https://play.eaglercraft.win",
     "icon": "https://icons.duckduckgo.com/ip3/play.eaglercraft.win.ico",
     "slug": "play-netlify",
-    "status": "up",
-    "uptime": "88.70%",
-    "uptimeDay": "83.56%",
-    "uptimeWeek": "55.97%",
-    "uptimeMonth": "74.10%",
-    "uptimeYear": "88.70%",
+    "status": "down",
+    "uptime": "88.73%",
+    "uptimeDay": "83.77%",
+    "uptimeWeek": "56.03%",
+    "uptimeMonth": "74.17%",
+    "uptimeYear": "88.73%",
     "time": 203,
-    "timeDay": 223,
-    "timeWeek": 203,
+    "timeDay": 215,
+    "timeWeek": 200,
     "timeMonth": 196,
     "timeYear": 203,
     "dailyMinutesDown": {
@@ -60,7 +60,7 @@
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
-      "2025-03-21": 536
+      "2025-03-21": 505
     }
   },
   {
@@ -69,25 +69,25 @@
     "icon": "https://icons.duckduckgo.com/ip3/fastest.eaglercraft.win.ico",
     "slug": "fastest-netlify",
     "status": "up",
-    "uptime": "95.85%",
-    "uptimeDay": "72.51%",
-    "uptimeWeek": "58.62%",
-    "uptimeMonth": "90.48%",
-    "uptimeYear": "95.85%",
+    "uptime": "95.75%",
+    "uptimeDay": "74.13%",
+    "uptimeWeek": "57.69%",
+    "uptimeMonth": "90.26%",
+    "uptimeYear": "95.75%",
     "time": 193,
-    "timeDay": 180,
+    "timeDay": 181,
     "timeWeek": 192,
     "timeMonth": 186,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2025-04-02": 243,
+      "2025-04-02": 234,
       "2025-04-01": 311,
       "2025-03-31": 686,
       "2025-03-30": 631,
       "2025-03-29": 500,
       "2025-03-28": 846,
       "2025-03-27": 792,
-      "2025-03-26": 162
+      "2025-03-26": 265
     }
   },
   {
@@ -113,14 +113,14 @@
     "url": "https://client.eaglercraft.win",
     "icon": "https://icons.duckduckgo.com/ip3/client.eaglercraft.win.ico",
     "slug": "client-github-pages",
-    "status": "up",
-    "uptime": "95.10%",
-    "uptimeDay": "85.64%",
-    "uptimeWeek": "52.93%",
-    "uptimeMonth": "88.78%",
-    "uptimeYear": "95.10%",
+    "status": "down",
+    "uptime": "95.28%",
+    "uptimeDay": "86.81%",
+    "uptimeWeek": "53.04%",
+    "uptimeMonth": "89.17%",
+    "uptimeYear": "95.28%",
     "time": 140,
-    "timeDay": 147,
+    "timeDay": 142,
     "timeWeek": 160,
     "timeMonth": 143,
     "timeYear": 140,
@@ -132,7 +132,7 @@
       "2025-03-29": 831,
       "2025-03-28": 810,
       "2025-03-27": 771,
-      "2025-03-26": 572
+      "2025-03-26": 401
     }
   },
   {
@@ -152,7 +152,7 @@
     "timeMonth": 168,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2025-04-02": 654,
+      "2025-04-02": 671,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
@@ -231,18 +231,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/client3.eaglercraft.win.ico",
     "slug": "client3-netlify",
     "status": "up",
-    "uptime": "88.49%",
-    "uptimeDay": "86.29%",
-    "uptimeWeek": "57.82%",
-    "uptimeMonth": "73.61%",
-    "uptimeYear": "88.49%",
+    "uptime": "88.48%",
+    "uptimeDay": "86.94%",
+    "uptimeWeek": "58.09%",
+    "uptimeMonth": "73.60%",
+    "uptimeYear": "88.48%",
     "time": 164,
     "timeDay": 189,
     "timeWeek": 169,
     "timeMonth": 157,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2025-04-02": 88,
+      "2025-04-02": 79,
       "2025-04-01": 335,
       "2025-03-31": 577,
       "2025-03-30": 578,
@@ -255,7 +255,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 893,
-      "2025-03-20": 19
+      "2025-03-20": 34
     }
   }
 ]
