@@ -34,18 +34,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/play.eaglercraft.win.ico",
     "slug": "play-netlify",
     "status": "up",
-    "uptime": "95.35%",
-    "uptimeDay": "86.00%",
-    "uptimeWeek": "66.64%",
-    "uptimeMonth": "89.08%",
-    "uptimeYear": "95.35%",
+    "uptime": "95.07%",
+    "uptimeDay": "88.46%",
+    "uptimeWeek": "67.01%",
+    "uptimeMonth": "88.41%",
+    "uptimeYear": "95.07%",
     "time": 203,
-    "timeDay": 229,
+    "timeDay": 223,
     "timeWeek": 202,
     "timeMonth": 199,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2025-04-04": 59,
+      "2025-04-04": 50,
       "2025-04-03": 142,
       "2025-04-02": 269,
       "2025-04-01": 366,
@@ -54,7 +54,7 @@
       "2025-03-29": 618,
       "2025-03-28": 718,
       "2025-03-27": 697,
-      "2025-03-26": 509
+      "2025-03-26": 811
     }
   },
   {
@@ -62,18 +62,19 @@
     "url": "https://fastest.eaglercraft.win",
     "icon": "https://icons.duckduckgo.com/ip3/fastest.eaglercraft.win.ico",
     "slug": "fastest-netlify",
-    "status": "up",
-    "uptime": "95.95%",
-    "uptimeDay": "94.95%",
-    "uptimeWeek": "70.21%",
-    "uptimeMonth": "90.48%",
-    "uptimeYear": "95.95%",
+    "status": "down",
+    "uptime": "95.97%",
+    "uptimeDay": "94.93%",
+    "uptimeWeek": "70.39%",
+    "uptimeMonth": "90.51%",
+    "uptimeYear": "95.97%",
     "time": 193,
     "timeDay": 179,
     "timeWeek": 194,
     "timeMonth": 187,
     "timeYear": 193,
     "dailyMinutesDown": {
+      "2025-04-04": 0,
       "2025-04-03": 74,
       "2025-04-02": 268,
       "2025-04-01": 311,
@@ -82,7 +83,7 @@
       "2025-03-29": 500,
       "2025-03-28": 846,
       "2025-03-27": 792,
-      "2025-03-26": 63
+      "2025-03-26": 47
     }
   },
   {
@@ -111,7 +112,7 @@
     "status": "up",
     "uptime": "95.61%",
     "uptimeDay": "87.59%",
-    "uptimeWeek": "64.48%",
+    "uptimeWeek": "64.58%",
     "uptimeMonth": "89.68%",
     "uptimeYear": "95.61%",
     "time": 140,
@@ -148,7 +149,7 @@
     "timeMonth": 159,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2025-04-04": 356,
+      "2025-04-04": 385,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
