@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.eaglercraft.win.ico",
     "slug": "eaglercraft-x-site-links",
     "status": "up",
-    "uptime": "96.40%",
-    "uptimeDay": "95.33%",
-    "uptimeWeek": "82.51%",
-    "uptimeMonth": "91.25%",
-    "uptimeYear": "96.40%",
+    "uptime": "96.30%",
+    "uptimeDay": "95.98%",
+    "uptimeWeek": "82.94%",
+    "uptimeMonth": "91.01%",
+    "uptimeYear": "96.30%",
     "time": 201,
     "timeDay": 148,
     "timeWeek": 226,
     "timeMonth": 205,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2025-04-06": 33,
+      "2025-04-06": 24,
       "2025-04-05": 58,
       "2025-04-04": 174,
       "2025-04-03": 72,
@@ -26,7 +26,7 @@
       "2025-03-30": 697,
       "2025-03-29": 641,
       "2025-03-28": 622,
-      "2025-03-27": 395
+      "2025-03-27": 508
     }
   },
   {
@@ -65,15 +65,15 @@
     "url": "https://fastest.eaglercraft.win",
     "icon": "https://icons.duckduckgo.com/ip3/fastest.eaglercraft.win.ico",
     "slug": "fastest-netlify",
-    "status": "up",
-    "uptime": "96.31%",
-    "uptimeDay": "94.11%",
-    "uptimeWeek": "81.51%",
-    "uptimeMonth": "91.05%",
-    "uptimeYear": "96.31%",
+    "status": "down",
+    "uptime": "96.43%",
+    "uptimeDay": "94.09%",
+    "uptimeWeek": "81.69%",
+    "uptimeMonth": "91.34%",
+    "uptimeYear": "96.43%",
     "time": 195,
-    "timeDay": 203,
-    "timeWeek": 211,
+    "timeDay": 218,
+    "timeWeek": 213,
     "timeMonth": 191,
     "timeYear": 195,
     "dailyMinutesDown": {
@@ -87,7 +87,7 @@
       "2025-03-30": 631,
       "2025-03-29": 500,
       "2025-03-28": 846,
-      "2025-03-27": 342
+      "2025-03-27": 215
     }
   },
   {
@@ -116,7 +116,7 @@
     "status": "up",
     "uptime": "95.92%",
     "uptimeDay": "96.38%",
-    "uptimeWeek": "80.43%",
+    "uptimeWeek": "80.61%",
     "uptimeMonth": "90.08%",
     "uptimeYear": "95.92%",
     "time": 141,
@@ -155,7 +155,7 @@
     "timeMonth": 148,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2025-04-06": 894,
+      "2025-04-06": 928,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
       "2025-04-03": 1440,
