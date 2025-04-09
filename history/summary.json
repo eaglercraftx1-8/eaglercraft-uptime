@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "96.29%",
     "uptimeDay": "82.90%",
-    "uptimeWeek": "86.01%",
+    "uptimeWeek": "86.15%",
     "uptimeMonth": "90.66%",
     "uptimeYear": "96.29%",
     "time": 201,
     "timeDay": 203,
-    "timeWeek": 209,
+    "timeWeek": 210,
     "timeMonth": 202,
     "timeYear": 201,
     "dailyMinutesDown": {
@@ -37,18 +37,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/play.eaglercraft.win.ico",
     "slug": "play-netlify",
     "status": "up",
-    "uptime": "96.27%",
-    "uptimeDay": "92.48%",
-    "uptimeWeek": "91.01%",
-    "uptimeMonth": "90.61%",
-    "uptimeYear": "96.27%",
+    "uptime": "96.19%",
+    "uptimeDay": "93.13%",
+    "uptimeWeek": "91.28%",
+    "uptimeMonth": "90.41%",
+    "uptimeYear": "96.19%",
     "time": 204,
     "timeDay": 180,
-    "timeWeek": 207,
-    "timeMonth": 198,
+    "timeWeek": 209,
+    "timeMonth": 199,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2025-04-09": 9,
+      "2025-04-09": 0,
       "2025-04-08": 143,
       "2025-04-07": 179,
       "2025-04-06": 163,
@@ -60,7 +60,8 @@
       "2025-03-31": 692,
       "2025-03-30": 716,
       "2025-03-29": 618,
-      "2025-03-28": 718
+      "2025-03-28": 718,
+      "2025-03-27": 95
     }
   },
   {
@@ -68,18 +69,19 @@
     "url": "https://fastest.eaglercraft.win",
     "icon": "https://icons.duckduckgo.com/ip3/fastest.eaglercraft.win.ico",
     "slug": "fastest-netlify",
-    "status": "up",
-    "uptime": "96.89%",
-    "uptimeDay": "98.60%",
-    "uptimeWeek": "93.71%",
-    "uptimeMonth": "92.17%",
-    "uptimeYear": "96.89%",
+    "status": "down",
+    "uptime": "96.92%",
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "94.05%",
+    "uptimeMonth": "92.24%",
+    "uptimeYear": "96.92%",
     "time": 194,
     "timeDay": 127,
-    "timeWeek": 211,
+    "timeWeek": 212,
     "timeMonth": 190,
     "timeYear": 194,
     "dailyMinutesDown": {
+      "2025-04-09": 0,
       "2025-04-08": 20,
       "2025-04-07": 128,
       "2025-04-06": 94,
@@ -91,7 +93,7 @@
       "2025-03-31": 686,
       "2025-03-30": 631,
       "2025-03-29": 500,
-      "2025-03-28": 515
+      "2025-03-28": 483
     }
   },
   {
@@ -125,7 +127,7 @@
     "uptimeYear": "96.26%",
     "time": 141,
     "timeDay": 141,
-    "timeWeek": 150,
+    "timeWeek": 149,
     "timeMonth": 145,
     "timeYear": 141,
     "dailyMinutesDown": {
@@ -161,7 +163,7 @@
     "timeMonth": 148,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2025-04-09": 467,
+      "2025-04-09": 528,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -246,16 +248,16 @@
     "url": "https://client3.eaglercraft.win",
     "icon": "https://icons.duckduckgo.com/ip3/client3.eaglercraft.win.ico",
     "slug": "client3-netlify",
-    "status": "up",
-    "uptime": "96.31%",
-    "uptimeDay": "84.92%",
-    "uptimeWeek": "86.42%",
-    "uptimeMonth": "90.70%",
-    "uptimeYear": "96.31%",
+    "status": "down",
+    "uptime": "96.32%",
+    "uptimeDay": "84.89%",
+    "uptimeWeek": "86.54%",
+    "uptimeMonth": "90.74%",
+    "uptimeYear": "96.32%",
     "time": 162,
-    "timeDay": 152,
+    "timeDay": 154,
     "timeWeek": 145,
-    "timeMonth": 159,
+    "timeMonth": 160,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2025-04-09": 152,
@@ -270,7 +272,7 @@
       "2025-03-31": 577,
       "2025-03-30": 578,
       "2025-03-29": 682,
-      "2025-03-28": 470
+      "2025-03-28": 451
     }
   }
 ]
