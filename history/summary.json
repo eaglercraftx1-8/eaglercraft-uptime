@@ -12,7 +12,7 @@
     "uptimeYear": "96.32%",
     "time": 200,
     "timeDay": 219,
-    "timeWeek": 206,
+    "timeWeek": 203,
     "timeMonth": 202,
     "timeYear": 200,
     "dailyMinutesDown": {
@@ -36,15 +36,15 @@
     "url": "https://play.eaglercraft.win",
     "icon": "https://icons.duckduckgo.com/ip3/play.eaglercraft.win.ico",
     "slug": "play-netlify",
-    "status": "up",
-    "uptime": "96.39%",
-    "uptimeDay": "88.19%",
+    "status": "down",
+    "uptime": "96.42%",
+    "uptimeDay": "88.18%",
     "uptimeWeek": "91.92%",
-    "uptimeMonth": "90.85%",
-    "uptimeYear": "96.39%",
+    "uptimeMonth": "90.91%",
+    "uptimeYear": "96.42%",
     "time": 204,
-    "timeDay": 211,
-    "timeWeek": 209,
+    "timeDay": 205,
+    "timeWeek": 208,
     "timeMonth": 197,
     "timeYear": 204,
     "dailyMinutesDown": {
@@ -60,7 +60,7 @@
       "2025-03-31": 692,
       "2025-03-30": 716,
       "2025-03-29": 618,
-      "2025-03-28": 530
+      "2025-03-28": 503
     }
   },
   {
@@ -69,18 +69,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/fastest.eaglercraft.win.ico",
     "slug": "fastest-netlify",
     "status": "up",
-    "uptime": "96.97%",
-    "uptimeDay": "97.68%",
-    "uptimeWeek": "94.51%",
-    "uptimeMonth": "92.31%",
-    "uptimeYear": "96.97%",
+    "uptime": "96.92%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "94.61%",
+    "uptimeMonth": "92.18%",
+    "uptimeYear": "96.92%",
     "time": 194,
     "timeDay": 110,
     "timeWeek": 204,
     "timeMonth": 189,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2025-04-09": 33,
+      "2025-04-09": 23,
       "2025-04-08": 20,
       "2025-04-07": 128,
       "2025-04-06": 94,
@@ -92,7 +92,7 @@
       "2025-03-31": 686,
       "2025-03-30": 631,
       "2025-03-29": 500,
-      "2025-03-28": 417
+      "2025-03-28": 483
     }
   },
   {
@@ -121,12 +121,12 @@
     "status": "up",
     "uptime": "96.41%",
     "uptimeDay": "91.82%",
-    "uptimeWeek": "91.34%",
+    "uptimeWeek": "91.35%",
     "uptimeMonth": "90.90%",
     "uptimeYear": "96.41%",
     "time": 141,
     "timeDay": 175,
-    "timeWeek": 155,
+    "timeWeek": 154,
     "timeMonth": 147,
     "timeYear": 141,
     "dailyMinutesDown": {
@@ -162,7 +162,7 @@
     "timeMonth": 148,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2025-04-09": 1187,
+      "2025-04-09": 1195,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
@@ -250,7 +250,7 @@
     "status": "up",
     "uptime": "96.48%",
     "uptimeDay": "81.79%",
-    "uptimeWeek": "86.02%",
+    "uptimeWeek": "86.10%",
     "uptimeMonth": "91.09%",
     "uptimeYear": "96.48%",
     "time": 162,
