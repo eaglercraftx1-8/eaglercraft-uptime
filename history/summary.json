@@ -4,14 +4,14 @@
     "url": "https://www.eaglercraft.win",
     "icon": "https://icons.duckduckgo.com/ip3/www.eaglercraft.win.ico",
     "slug": "eaglercraft-x-site-links",
-    "status": "up",
-    "uptime": "96.39%",
-    "uptimeDay": "91.19%",
-    "uptimeWeek": "86.55%",
-    "uptimeMonth": "90.81%",
-    "uptimeYear": "96.39%",
+    "status": "down",
+    "uptime": "96.42%",
+    "uptimeDay": "92.14%",
+    "uptimeWeek": "86.68%",
+    "uptimeMonth": "90.88%",
+    "uptimeYear": "96.42%",
     "time": 201,
-    "timeDay": 188,
+    "timeDay": 187,
     "timeWeek": 199,
     "timeMonth": 203,
     "timeYear": 201,
@@ -29,7 +29,7 @@
       "2025-03-31": 617,
       "2025-03-30": 697,
       "2025-03-29": 641,
-      "2025-03-28": 192
+      "2025-03-28": 161
     }
   },
   {
@@ -38,18 +38,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/play.eaglercraft.win.ico",
     "slug": "play-netlify",
     "status": "up",
-    "uptime": "96.51%",
-    "uptimeDay": "89.11%",
-    "uptimeWeek": "91.25%",
-    "uptimeMonth": "91.11%",
-    "uptimeYear": "96.51%",
+    "uptime": "96.49%",
+    "uptimeDay": "89.76%",
+    "uptimeWeek": "91.35%",
+    "uptimeMonth": "91.05%",
+    "uptimeYear": "96.49%",
     "time": 204,
     "timeDay": 167,
     "timeWeek": 210,
     "timeMonth": 196,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2025-04-10": 46,
+      "2025-04-10": 37,
       "2025-04-09": 111,
       "2025-04-08": 143,
       "2025-04-07": 179,
@@ -62,7 +62,7 @@
       "2025-03-31": 692,
       "2025-03-30": 716,
       "2025-03-29": 618,
-      "2025-03-28": 353
+      "2025-03-28": 385
     }
   },
   {
@@ -165,7 +165,7 @@
     "timeMonth": 159,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2025-04-10": 294,
+      "2025-04-10": 314,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
       "2025-04-07": 1440,
@@ -258,7 +258,7 @@
     "uptimeMonth": "91.12%",
     "uptimeYear": "96.51%",
     "time": 162,
-    "timeDay": 180,
+    "timeDay": 159,
     "timeWeek": 145,
     "timeMonth": 159,
     "timeYear": 162,
