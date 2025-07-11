@@ -157,16 +157,16 @@
     "url": "https://client.eaglercraft.win",
     "icon": "https://icons.duckduckgo.com/ip3/client.eaglercraft.win.ico",
     "slug": "client-github-pages",
-    "status": "up",
-    "uptime": "95.87%",
-    "uptimeDay": "98.43%",
-    "uptimeWeek": "99.78%",
+    "status": "down",
+    "uptime": "95.88%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "95.87%",
+    "uptimeYear": "95.88%",
     "time": 146,
-    "timeDay": 182,
-    "timeWeek": 170,
-    "timeMonth": 212,
+    "timeDay": 153,
+    "timeWeek": 159,
+    "timeMonth": 207,
     "timeYear": 146,
     "dailyMinutesDown": {
       "2025-07-11": 23,
@@ -189,7 +189,7 @@
       "2025-04-01": 475,
       "2025-03-31": 583,
       "2025-03-30": 781,
-      "2025-03-29": 380
+      "2025-03-29": 362
     }
   },
   {
@@ -209,7 +209,7 @@
     "timeMonth": 172,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2025-07-11": 936,
+      "2025-07-11": 959,
       "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
